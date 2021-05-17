@@ -17,4 +17,4 @@ pip install -r requirements.txt
 ##### Gene Eagle - Contributor
 ##### David Apolinar - Contributor
 ##### Rohit Tikyani - Contributor
-##### James Jardinelli - Contributor
+##### James Jardinella - Contributor
